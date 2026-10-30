@@ -1,0 +1,7 @@
+.choccy/
+.gradle/
+.kotlin/
+cmake-build-debug/
+build/
+app/build/
+app/.cxx/
